@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 96" role="img" aria-labelledby="title">
+<title id="title">React, TypeScript, Rust, Tauri, Next.js et Three.js</title>
+<rect width="900" height="96" rx="12" fill="#121c32"/>
+<g font-family="Arial, Helvetica, sans-serif" font-size="18" text-anchor="middle" fill="#e6edf8"><circle cx="75" cy="25" r="4" fill="#66d9ef"/><text x="75" y="65">React</text><circle cx="225" cy="25" r="4" fill="#79b8ff"/><text x="225" y="65">TypeScript</text><circle cx="375" cy="25" r="4" fill="#ffa88e"/><text x="375" y="65">Rust</text><circle cx="525" cy="25" r="4" fill="#8de4dc"/><text x="525" y="65">Tauri</text><circle cx="675" cy="25" r="4" fill="#ffffff"/><text x="675" y="65">Next.js</text><circle cx="825" cy="25" r="4" fill="#bcc8ff"/><text x="825" y="65">Three.js</text></g></svg>
